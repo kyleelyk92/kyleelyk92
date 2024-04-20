@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @kyleelyk92
-- 👀 I’m interested in Web Dev, Image Processing, Automation & ML
-- 🌱 I’m currently learning NextJS
-- 💞️ I’m looking to collaborate on Anything in Javascript or Python
-- 📫 How to reach me ... email @ kyleelyk92@hotmail.com
+- 👀 I'm currently building a bank with one of Canada's premiere fintech companies
 
 <!---
 kyleelyk92/kyleelyk92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
